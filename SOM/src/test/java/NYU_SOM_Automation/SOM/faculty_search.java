@@ -31,6 +31,7 @@ public void filterfacultysearch() throws InterruptedException
 {
 	
 	som.somfiltercheck();
+	System.out.println("check");
 	
 	
 }
